@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IU7+4Tj0i0BUyfXQxzWCUY7uTqpjbu7+HAPhDvtRpYKr6sH8RLVDg0h4MRXOeU39qthT8uBMgA5/Oh+8gUXvtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhar\\source\\repos\\Dockereg\\Dockereg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

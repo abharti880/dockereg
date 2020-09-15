@@ -1,0 +1,9 @@
+C:\Users\abhar\source\repos\Dockereg\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\abhar\source\repos\Dockereg\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\abhar\source\repos\Dockereg\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\abhar\source\repos\Dockereg\obj\Debug\netcoreapp3.1\Dockereg.csprojAssemblyReference.cache
+C:\Users\abhar\source\repos\Dockereg\obj\Debug\netcoreapp3.1\Dockereg.AssemblyInfoInputs.cache
+C:\Users\abhar\source\repos\Dockereg\obj\Debug\netcoreapp3.1\Dockereg.AssemblyInfo.cs
+C:\Users\abhar\source\repos\Dockereg\obj\Debug\netcoreapp3.1\Dockereg.RazorTargetAssemblyInfo.cache
+C:\Users\abhar\source\repos\Dockereg\obj\Debug\netcoreapp3.1\staticwebassets\Dockereg.StaticWebAssets.Manifest.cache
+C:\Users\abhar\source\repos\Dockereg\obj\Debug\netcoreapp3.1\staticwebassets\Dockereg.StaticWebAssets.xml
