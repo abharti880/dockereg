@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dockereg-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Dockereg
+  template:
+    metadata:
+      labels:
+        app: Dockereg
+    spec:
+      containers:
+      - name: cdesample
+        image: forakccde.azurecr.io/cdesample:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: dockereg
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Dockereg
